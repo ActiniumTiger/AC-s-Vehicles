@@ -1,0 +1,204 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+
+	<!-- 
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+									        AC'S VEHICLES AND PARTS											
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    -->
+
+	<!-- ###### AC'S VEHICLE#1 ###### -->
+	AC'SVEHICLE#1,vehicles,vehicle,new,Punch Buggy,,,,,
+	AC'SVEHICLE#1placeable,vehicles,item,EnChanged,Punch Buggy,,,,,
+	AC'SVEHICLE#1placeableDesc,vehicles,item,EnChanged,A custom Punch Buggy Volkswagen Beetle.,,,,,
+	AC'SVEHICLE#1Chassis,items,Part,EnChanged,Volkswagen Beetle Chassis,,,,,
+	AC'SVEHICLE#1ChassisDesc,items,Part,EnChanged,Parts needed to craft the Volkswagen Beetle. The beginning of something...awesome!,,,,,
+
+	<!-- ###### AC'S VEHICLE#2 ###### -->
+	AC'SVEHICLE#2,vehicles,vehicle,new,Blender Blue,,,,,
+	AC'SVEHICLE#2placeable,vehicles,item,EnChanged,Blender Blue,,,,,
+	AC'SVEHICLE#2placeableDesc,vehicles,item,EnChanged,A custom Blender Blue Van.,,,,,
+	AC'SVEHICLE#2Chassis,items,Part,EnChanged,Blender Blue Van Chassis,,,,,
+	AC'SVEHICLE#2ChassisDesc,items,Part,EnChanged,Parts needed to craft the ,Blender Blue Van. The beginning of something...awesome!,,,,,
+
+	<!-- ###### AC'S VEHICLE#3 ###### -->
+	AC'SVEHICLE#3,vehicles,vehicle,new,Armor Sledge,,,,,
+	AC'SVEHICLE#3placeable,vehicles,item,EnChanged,Armor Sledge,,,,,
+	AC'SVEHICLE#3placeableDesc,vehicles,item,EnChanged, A custom Punch Armor Sledge Truck.,,,,,
+	AC'SVEHICLE#3Chassis,items,Part,EnChanged,Armor Sledge Truck Chassis,,,,,
+	AC'SVEHICLE#3ChassisDesc,items,Part,EnChanged,Parts needed to craft the Armor Sledge Truck. The beginning of something...awesome!,,,,,
+	
+	<!-- ###### AC'S VEHICLE#4 ###### -->
+	AC'SVEHICLE#4,vehicles,vehicle,new,Swat Truck,,,,,
+	AC'SVEHICLE#4placeable,vehicles,item,EnChanged,Swat Truck,,,,,
+	AC'SVEHICLE#4placeableDesc,vehicles,item,EnChanged,A custom Swat Truck.,,,,,
+	AC'SVEHICLE#4Chassis,items,Part,EnChanged,Swat Truck Chassis,,,,,
+	AC'SVEHICLE#4ChassisDesc,items,Part,EnChanged,Parts needed to craft the Swat Truck. The beginning of something...awesome!,,,,,
+	
+	<!-- ###### AC'S VEHICLE#5 ###### -->
+	AC'SVEHICLE#5,vehicles,vehicle,new,Snakes PickUp,,,,,
+	AC'SVEHICLE#5placeable,vehicles,item,EnChanged,Snakes PickUp,,,,,
+	AC'SVEHICLE#5placeableDesc,vehicles,item,EnChanged,A custom Snakes PickUp.,,,,,
+	AC'SVEHICLE#5Chassis,items,Part,EnChanged,Snakes PickUp Chassis,,,,,
+	AC'SVEHICLE#5ChassisDesc,items,Part,EnChanged,Parts needed to craft the Snakes PickUp. The beginning of something...awesome!,,,,,
+	
+	<!-- ###### AC'S VEHICLE#6 ###### -->
+	AC'SVEHICLE#6,vehicles,vehicle,new,Lucifers Bargain,,,,,
+	AC'SVEHICLE#6placeable,vehicles,item,EnChanged,Lucifers Bargain,,,,,
+	AC'SVEHICLE#6placeableDesc,vehicles,item,EnChanged,A custom Lucifers Bargain.,,,,,
+	AC'SVEHICLE#6Chassis,items,Part,EnChanged,Lucifers Bargain Chassis,,,,,
+	AC'SVEHICLE#6ChassisDesc,items,Part,EnChanged,Parts needed to craft the Lucifers Bargain. The beginning of something...awesome!,,,,,
+	
+	<!-- ###### AC'S VEHICLE#7 ###### -->
+	AC'SVEHICLE#7,vehicles,vehicle,new,Beat Down Van,,,,,
+	AC'SVEHICLE#7placeable,vehicles,item,EnChanged,Beat Down Van,,,,,
+	AC'SVEHICLE#7placeableDesc,vehicles,item,EnChanged,A custom Beat Down Van.,,,,,
+	AC'SVEHICLE#7Chassis,items,Part,EnChanged,Beat Down Van Chassis,,,,,
+	AC'SVEHICLE#7ChassisDesc,items,Part,EnChanged,Parts needed to craft the Beat Down Van. The beginning of something...awesome!,,,,,
+	
+	<!-- ###### AC'S VEHICLE#8 ###### -->
+	AC'SVEHICLE#8,vehicles,vehicle,new,White Sports Car,,,,,
+	AC'SVEHICLE#8placeable,vehicles,item,EnChanged,White Sports Car,,,,,
+	AC'SVEHICLE#8placeableDesc,vehicles,item,EnChanged,A custom White Sports Car.,,,,,
+	AC'SVEHICLE#8Chassis,items,Part,EnChanged,White Sports Car Chassis,,,,,
+	AC'SVEHICLE#8ChassisDesc,items,Part,EnChanged,Parts needed to craft the White Sports Car. The beginning of something...awesome!,,,,,
+
+	<!-- ###### AC'S VEHICLE#9 ###### -->
+	AC'SVEHICLE#9,vehicles,vehicle,new,Dodge Viper,,,,,
+	AC'SVEHICLE#9placeable,vehicles,item,EnChanged,Dodge Viper,,,,,
+	AC'SVEHICLE#9placeableDesc,vehicles,item,EnChanged,A custom Dodge Viper.,,,,,
+	AC'SVEHICLE#9Chassis,items,Part,EnChanged,Dodge Viper Chassis,,,,,
+	AC'SVEHICLE#9ChassisDesc,items,Part,EnChanged,Parts needed to craft the Dodge Viper. The beginning of something...awesome!,,,,,
+	
+	<!-- ###### AC'S VEHICLE#10 ###### -->
+	AC'SVEHICLE#10,vehicles,vehicle,new,Carbon Custum,,,,,
+	AC'SVEHICLE#10placeable,vehicles,item,EnChanged,Carbon Custum,,,,,
+	AC'SVEHICLE#10placeableDesc,vehicles,item,EnChanged,A custom Carbon Custum.,,,,,
+	AC'SVEHICLE#10Chassis,items,Part,EnChanged,Carbon Custum Chassis,,,,,
+	AC'SVEHICLE#10ChassisDesc,items,Part,EnChanged,Parts needed to craft the Carbon Custum. The beginning of something...awesome!,,,,,
+
+    AC'SVEHICLEEngineParts,items,Part,EnChanged,EngineParts,,,,,
+	AC'SVEHICLEEnginePartsDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEEngineBlock,items,Part,EnChanged,EngineBlock,,,,,
+	AC'SVEHICLEEngineBlockDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLECrankShaft,items,Part,EnChanged,CrankShaft,,,,,
+	AC'SVEHICLECrankShaftDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLECylinderHead,items,Part,EnChanged,CylinderHead,,,,,
+	AC'SVEHICLECylinderHeadDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLECamShaft,items,Part,EnChanged,CamShaft,,,,,
+	AC'SVEHICLECamShaftDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEEnginePiston,items,Part,EnChanged,EnginePiston,,,,,
+	AC'SVEHICLEEnginePistonDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEToolSockets,items,Part,EnChanged,ToolSockets,,,,,
+	AC'SVEHICLEToolSocketsDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEEngineAssembly,items,Part,EnChanged,EngineAssembly,,,,,
+	AC'SVEHICLEEngineAssemblyDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLECarburetor,items,Part,EnChanged,Carburetor,,,,,
+	AC'SVEHICLECarburetorDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEFuelPump,items,Part,EnChanged,FuelPump,,,,,
+	AC'SVEHICLEFuelPumpDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLESparkPlugs,items,Part,EnChanged,SparkPlugs,,,,,
+	AC'SVEHICLESparkPlugsDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLETimingBelt,items,Part,EnChanged,TimingBelt,,,,,
+	AC'SVEHICLETimingBeltDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEPistonRings,items,Part,EnChanged,PistonRings,,,,,
+	AC'SVEHICLEPistonRingsDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEOldParts,items,Part,EnChanged,OldParts,,,,,
+	AC'SVEHICLEOldPartsDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	AC'SVEHICLEBatteryplugs,items,Part,EnChanged,Batteryplugs,,,,,
+	AC'SVEHICLEBatteryplugsDesc,items,Part,EnChanged,The beginning of something...awesome!,,,,,
+	
+	<!-- 
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+									        AC'S VEHICLE PART SCHEMATICS                                                                                             
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    -->
+	
+	AC'SVEHICLE#1ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#1ChassisSchematic,,,,,
+	AC'SVEHICLE#1ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#1ChassisSchematic is used to craft the Punch Buggy.,,,,,
+	AC'SVEHICLE#2ChassisSchematic,items,Part,EnChangedAC'SVEHICLE#2ChassisSchematic,,,,,
+	AC'SVEHICLE#2ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#2ChassisSchematic is used to craft the Blender Blue.,,,,,
+	AC'SVEHICLE#3ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#3ChassisSchematic,,,,,
+	AC'SVEHICLE#3ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#3ChassisSchematic is used to craft the Armor Sledge.,,,,,
+	AC'SVEHICLE#4ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#4ChassisSchematic,,,,,
+	AC'SVEHICLE#4ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#4ChassisSchematic is used to craft the Swat Truck.,,,,,
+	AC'SVEHICLE#5ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#5ChassisSchematic,,,,,
+	AC'SVEHICLE#5ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#5ChassisSchematic is used to craft the Snakes PickUp.,,,,,
+	AC'SVEHICLE#6ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#6ChassisSchematic,,,,,
+	AC'SVEHICLE#6ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#6ChassisSchematic is used to craft the Lucifers Bargain.,,,,,
+	AC'SVEHICLE#7ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#7ChassisSchematic,,,,,
+	AC'SVEHICLE#7ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#7ChassisSchematic is used to craft the Beat Down Van.,,,,,
+	AC'SVEHICLE#8ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#8ChassisSchematic,,,,,
+	AC'SVEHICLE#8ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#8ChassisSchematic is used to craft the White Sports Car.,,,,,
+	AC'SVEHICLE#9ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#9ChassisSchematic,,,,,
+	AC'SVEHICLE#9ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#9ChassisSchematic is used to craft the Dodge Viper.,,,,,
+	AC'SVEHICLE#10ChassisSchematic,items,Part,EnChanged,AC'SVEHICLE#10ChassisSchematic,,,,,
+	AC'SVEHICLE#10ChassisSchematicDesc,items,Part,EnChanged,AC'SVEHICLE#10ChassisSchematic is used to craft the Carbon Custum.,,,,,
+	
+	AC'SVEHICLEEnginePartsSchematic,items,Part,EnChanged,EnginePartsSchematic,,,,,
+	AC'SVEHICLEEnginePartsSchematicDesc,items,Part,EnChanged,EnginePartsSchematic is used to read so you can learn to craft EngineParts.,,,,,
+	AC'SVEHICLEEngineBlockSchematic,items,Part,EnChanged,EngineBlockSchematic,,,,,
+	AC'SVEHICLEEngineBlockSchematicDesc,items,Part,EnChanged,EngineBlockSchematic is used to read so you can learn to craft the EngineBlock.,,,,,
+	AC'SVEHICLECrankShaftSchematic,items,Part,EnChanged,CrankShaftSchematic,,,,,
+	AC'SVEHICLECrankShaftSchematicDesc,items,Part,EnChanged,CrankShaftSchematic is used to read so you can learn to craft the CrankShaft.,,,,,
+	AC'SVEHICLECylinderHeadSchematic,items,Part,EnChanged,CylinderHeadSchematic,,,,,
+	AC'SVEHICLECylinderHeadSchematicDesc,items,Part,EnChanged,CylinderHeadSchematic is used to read so you can learn to craft the CylinderHead.,,,,,
+	AC'SVEHICLECamShaftSchematic,items,Part,EnChanged,CamShaftSchematic,,,,,
+	AC'SVEHICLECamShaftSchematicDesc,items,Part,EnChanged,CamShaftSchematic is used to read so you can learn to craft the CamShaft.,,,,,
+	AC'SVEHICLEEnginePistonSchematic,items,Part,EnChanged,EnginePistonSchematic,,,,,
+	AC'SVEHICLEEnginePistonSchematicDesc,items,Part,EnChanged,EnginePistonSchematic is used to read so you can learn to craft EnginePistons.,,,,,
+	AC'SVEHICLEToolSocketsSchematic,items,Part,EnChanged,ToolSocketsSchematic,,,,,
+	AC'SVEHICLEToolSocketsSchematicDesc,items,Part,EnChanged,ToolSocketsSchematic is used to read so you can learn to craft ToolSockets.,,,,,
+	AC'SVEHICLEEngineAssemblySchematic,items,Part,EnChanged,EngineAssemblySchematic,,,,,
+	AC'SVEHICLEEngineAssemblySchematicDesc,items,Part,EnChanged,EngineAssemblySchematic is used to read so you can learn to craft the EngineAssembly.,,,,,
+	AC'SVEHICLECarburetorSchematic,items,Part,EnChanged,CarburetorSchematic,,,,,
+	AC'SVEHICLECarburetorSchematicDesc,items,Part,EnChanged,CarburetorSchematic is used to read so you can learn to craft the Carburetor.,,,,,
+	AC'SVEHICLEFuelPumpSchematic,items,Part,EnChanged,FuelPumpSchematic,,,,,
+	AC'SVEHICLEFuelPumpSchematicDesc,items,Part,EnChanged,FuelPumpSchematic is used to read so you can learn to craft the FuelPump.,,,,,
+	AC'SVEHICLESparkPlugsSchematic,items,Part,EnChanged,SparkPlugsSchematic,,,,,
+	AC'SVEHICLESparkPlugsSchematicDesc,items,Part,EnChanged,SparkPlugsSchematic is used to read so you can learn to craft SparkPlugs.,,,,,
+	AC'SVEHICLETimingBeltSchematic,items,Part,EnChanged,TimingBeltSchematic,,,,,
+	AC'SVEHICLETimingBeltSchematicDesc,items,Part,EnChanged,TimingBeltSchematic is used to read so you can learn to craft a TimingBelt.,,,,,
+	AC'SVEHICLEPistonRingsSchematic,items,Part,EnChanged,PistonRingsSchematic,,,,,
+	AC'SVEHICLEPistonRingsSchematicDesc,items,Part,EnChanged,PistonRingsSchematic is used to read so you can learn to craft PistonRings.,,,,,
+	AC'SVEHICLEOldPartsSchematic,items,Part,EnChanged,OldPartsSchematic,,,,,
+	AC'SVEHICLEOldPartsSchematicDesc,items,Part,EnChanged,OldPartsSchematic is used to read so you can learn to craft a OldParts.,,,,,
+	AC'SVEHICLEBatteryplugsSchematic,items,Part,EnChanged,BatteryplugsSchematic,,,,,
+	AC'SVEHICLEBatteryplugsSchematicDesc,items,Part,EnChanged,BatteryplugsSchematic is used to read so you can learn to craft Batteryplugs.,,,,,
+	
+	<!-- 
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+									        AC'S WORKBENCHS                                                                                              
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    -->
+	
+	ACGarageWorkBench,blocks,Workstation,,,ACGarageWorkBench,,,,,,,,,,,,,,
+	ACGarageWorkBenchDesc,blocks,Workstation,,,Many advanced crafting recipes require a ACGarageWorkBench. On a ACGarageWorkBench you can also craft all items that you can craft in your backpack.,,,,,,,,,,,,,,  
+	ACGarageWorkBenchSchematic,blocks,Workstation,,,ACGarageWorkBench Schematic,,,,,,,,,,,,,,
+	ACGarageWorkBenchSchematicDesc,blocks,Workstation,,,ACGarageWorkBenchSchematic is used to learn how to craft a ACGarageWorkBench.,,,,,,,,,,,,,,				
+	
+	ACGarageWorkBench,UI,Tooltip,,,AC_Vehicles,,,,,,,,,,,,,,
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

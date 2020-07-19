@@ -1,0 +1,17 @@
+<configs>
+
+	<append xpath="/xui/ruleset/window_group[@name='toolbelt']">
+		<window name="RilesHUD" anchor="LeftTop"/>
+	</append>
+	
+	<append xpath="/xui/ruleset">
+	    <window_group name="workstation_ACGarageWorkBench" controller="XUiC_WorkstationWindowGroup">
+			<window name="windowCraftingList"/>
+			<window name="craftingInfoPanel"/>
+			<window name="windowCraftingQueue"/>
+			<window name="windowOutput" />
+			<window name="windowNonPagingHeader" />
+			<!-- <window name="windowCombine" /> -->
+		</window_group>	
+	</append>
+</configs>
